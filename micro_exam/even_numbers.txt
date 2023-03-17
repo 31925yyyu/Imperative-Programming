@@ -1,0 +1,2 @@
+The even number of array is: 
+34	22	16	
